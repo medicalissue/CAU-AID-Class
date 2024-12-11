@@ -44,7 +44,7 @@ Ensure you have the following installed:
 
 ## Example
 ### Console Interaction:
-```bash
+```
 Enter the number of neighbors (k) for KNN: 3
 Model Accuracy: 0.96
 Balanced Accuracy: 0.95
